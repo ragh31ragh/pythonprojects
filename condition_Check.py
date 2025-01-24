@@ -11,6 +11,8 @@ def calculate_hours(days):
     if ( days > 0 ):
         total_hours = days* 24
         return (f"total hours {total_hours} from function")
+    elif ( days == 0 ):
+        print("you entered 0 . pls enter valid number  ")
     else:
         print ("you enterered negatie value. so no conversion for you ")
 
