@@ -4,7 +4,7 @@ print(course.upper());
 price = 25
 print (price > 10 and price < 30 )
 
-temparature = 25
+temparature = 12
 if ( temparature > 30 ):#comments
     print ("It's a hot day ")
 
