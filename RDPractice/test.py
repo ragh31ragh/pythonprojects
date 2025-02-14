@@ -1,6 +1,11 @@
-print("Hello world")
-my_list=[3,4,5,5,3,2,2]
-print(my_list)
+n=10
+num1 = 0
+num2 = 1
+next_num = num2
+count = 1
+while (count <= n):
+  count = count + 1
+  print(next_num)
+  num1,num2 = num2,next_num
+  next_num = num1 + num2
 
-for i in range(len(my_list):-1):
-    print(my_list[i])
