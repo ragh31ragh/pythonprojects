@@ -6,7 +6,7 @@ def some_function(abc):
 #some_function("sa vs pak")
 
 def variable_arguments(*args):
-    
+
     print(type(args))
     for i in args:
         print(i)
