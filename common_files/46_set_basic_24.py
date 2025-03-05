@@ -6,3 +6,5 @@ print(my_set)
 
 my_set.remove("Jan")
 print(my_set)
+my_set.add("Jan")
+print(my_set)

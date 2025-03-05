@@ -1,0 +1,19 @@
+Strings
+\n \t escape sequence
+Indexing
+Slicing
+
+Negative Index
+
+string.endswith("sdf")
+capitalize
+replace
+find
+count
+
+########Conditional Statement ##########
+if(condition):
+    fdafa
+else(condition):
+    sdafa
+else:
