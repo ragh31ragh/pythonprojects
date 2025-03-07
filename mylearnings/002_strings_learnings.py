@@ -20,3 +20,4 @@ print("Length of first name ")
 print(len(new_str));
 print("count of $ in first name ")
 print(new_str.count("$"))
+

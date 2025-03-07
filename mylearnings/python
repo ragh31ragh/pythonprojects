@@ -1,3 +1,18 @@
+####Data type ###
+integer
+string
+float
+boolean
+none
+
+Operators:
+Arithmetic
+Relational
+Logical operator
+Comparision
+
+
+
 Strings
 \n \t escape sequence
 Indexing
